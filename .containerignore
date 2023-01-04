@@ -1,4 +1,5 @@
 
-# Ignore everything but the Containerfile.
+# Ignore everything but the Containerfile and specific files.
 *
 !Containerfile
+!initctl_faker
